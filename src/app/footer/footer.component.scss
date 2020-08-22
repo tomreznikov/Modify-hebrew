@@ -1,0 +1,17 @@
+.footer {
+    position: absolute;
+    bottom: 27px;
+    align-items: center;
+    width: calc(100% - 62px);
+    margin: 0px;
+    padding-left: 18px;
+}
+
+.pagination-previous {
+    padding-right: 10px;
+    cursor: pointer;
+}
+.pagination-next {
+    padding-right: 10px;
+    cursor: pointer;
+}

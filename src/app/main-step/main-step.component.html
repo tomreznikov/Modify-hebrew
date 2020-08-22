@@ -1,0 +1,41 @@
+<app-header></app-header>
+<div class="main-body">
+    <div *ngIf="activeRoute === 'main'" style="display: flex; justify-content: center;">
+        <div class="form">
+            <div class="form-name">
+                <span class="ui-float-label">
+                    <input id="float-input" type="text" size="30" [(ngModel)]="fullName" (ngModelChange)="changeName($event)" pInputText>
+                    <label for="float-input">Full Name</label>
+                </span>
+            </div>
+            <div>
+                <span class="ui-float-label">
+                    <textarea [disabled]="false" [rows]="5" [cols]="30" [(ngModel)]="itemsString" (ngModelChange)="changeArea($event)" id="float-textarea" autoResize="false" pInputTextarea></textarea>
+                    <label for="float-textarea">Add items</label>
+                </span>
+            </div>
+            <div *ngIf="filename" style="display: flex;">
+                <button class="input-icon" (click)="deleteFile()">
+                    <i class="pi pi-times"></i>
+                </button>
+                {{filename}}
+            </div>
+            <div class="upload-btn">
+                <p-button [label]="buttonLabel" icon="pi pi-upload" iconPos="right" (click)="uploader.click()">
+                    <input #uploader hidden type="file" accept=".csv" (change)="handleFileSelect($event)"/>
+                </p-button>
+            </div>
+        </div>
+        <div class="tst"></div>
+    </div>
+    <div *ngIf="activeRoute === 'resize'" style="width: 100%; height: 100%;">
+        <app-resize-step></app-resize-step>
+    </div>
+    <div *ngIf="activeRoute === 'grouped'" style="width: 100%; height: 100%;">
+        <app-grouping-step></app-grouping-step>
+    </div>
+    <div *ngIf="activeRoute === 'finish'" style="width: 100%; height: 100%;">
+        <app-finish-step></app-finish-step>
+    </div>
+</div>
+<app-footer></app-footer>

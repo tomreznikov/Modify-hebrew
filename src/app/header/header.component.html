@@ -1,0 +1,11 @@
+<div class="app-header" style="display: flex; justify-content: space-between;">
+    <div *ngIf="!activeRoute || activeRoute === 'main'">
+        Welcome
+    </div>
+    <div *ngIf="activeRoute !== 'main'">
+        {{fullName}}
+    </div>
+    <div>
+        {{currentDate}}
+    </div>
+</div>
