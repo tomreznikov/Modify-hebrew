@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>end-screen</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="end-screen" transform="translate(-618.000000, -385.000000)">
+            <g transform="translate(619.000000, 386.000000)">
+                <g id="circle" transform="translate(38.093774, 46.498847)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="3.47338902" cy="2.45964643" rx="2.55424821" ry="2.45964643"></ellipse>
+                </g>
+                <g id="circle-copy-8" transform="translate(0.323597, 0.812452)">
+                    <ellipse id="baseline-copy" fill="#8481ff" opacity="0.4" cx="72.2729515" cy="54.3720215" rx="16.4607107" ry="16.3720215"></ellipse>
+                    <circle id="baseline-copy-2" stroke="#8481ff" stroke-width="2" cx="46.2729515" cy="46.3720215" r="46"></circle>
+                </g>
+                <g id="circle-copy-5" transform="translate(22.654112, 52.340507)" fill="#8481ff" opacity="0.4" >
+                    <circle id="baseline-copy" cx="14.318107" cy="13.6817832" r="13.6817832"></circle>
+                </g>
+                <g id="circle-copy-2" transform="translate(49.627978, 66.637202)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="7.2038584" cy="7.07148347" rx="7.09513392" ry="7.07148347"></ellipse>
+                </g>
+                <g id="circle-copy" transform="translate(48.477325, 11.910069)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="9.67724743" cy="9.5311299" rx="9.64938213" ry="9.5311299"></ellipse>
+                </g>
+                <g id="circle-copy-4" transform="translate(24.340507, 34.815527)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="8.02832141" cy="7.84012298" rx="7.94654999" ry="7.84012298"></ellipse>
+                </g>
+                <g id="circle-copy-6" transform="translate(5.970792, 42.655650)" fill="#8481ff" opacity="0.4">
+                    <circle id="baseline-copy" cx="10.4238498" cy="9.5311299" r="9.5311299"></circle>
+                </g>
+                <g id="circle-copy-7" transform="translate(11.424289, 62.486549)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="5.33862371" cy="4.91929285" rx="4.82469107" ry="4.91929285"></ellipse>
+                </g>
+                <g id="circle-copy-11" transform="translate(13.961568, 30.818601)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="6.01104814" cy="5.53420446" rx="5.6051558" ry="5.53420446"></ellipse>
+                </g>
+                <g id="circle-copy-13" transform="translate(44.399693, 44.500384)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="6.01104814" cy="5.53420446" rx="5.6051558" ry="5.53420446"></ellipse>
+                </g>
+                <g id="circle-copy-15" transform="translate(53.699462, 31.433513)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="5.33862371" cy="4.91929285" rx="4.82469107" ry="4.91929285"></ellipse>
+                </g>
+                <g id="circle-copy-16" transform="translate(67.070715, 34.046887)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="2.49688743" cy="1.53727902" rx="1.6318808" ry="1.53727902"></ellipse>
+                </g>
+                <g id="circle-copy-12" transform="translate(11.576480, 25.745580)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="3.23358194" cy="2.92083013" rx="2.90900491" ry="2.92083013"></ellipse>
+                </g>
+                <g id="circle-copy-21" transform="translate(18.731745, 12.371253)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="10.653749" cy="10.6072252" rx="10.5717495" ry="10.6072252"></ellipse>
+                </g>
+                <g id="circle-copy-10" transform="translate(39.096849, 28.973866)" fill="#8481ff" opacity="0.4">
+                    <ellipse id="baseline-copy" cx="7.89978123" cy="7.07148347" rx="6.95323124" ry="7.07148347"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
